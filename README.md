@@ -33,9 +33,9 @@ Each service operates with its individual database, maintaining data independenc
 While the project effectively meets its current objectives, there are areas identified for future development:
 
 1. **User Deletion and Task Management**: Presently, deleting users does not automatically remove their tasks.
-2. **Unit Testing**: More extensive testing is planned to ensure robustness.
-3. **Error Handling**: Improvement in error management is a target area.
-4. **Code Documentation**: Aiming for more comprehensive and clearer code comments.
+2. **Unit Testing**: Extensive testing needs to be added to ensure robustness.
+3. **Error Handling**: Improvement in error management.
+4. **Code Documentation**: Comprehensive and clearer code comments.
 
 ### Environment Setup
 
